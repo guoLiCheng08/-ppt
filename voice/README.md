@@ -2,6 +2,8 @@
 
 本目录提供一个本地 MCP 工具 `speak_text`，让 Codex 在任务完成时把简短总结交给 Windows 语音合成器朗读。
 
+其他 Codex 窗口的配置和使用方法见：[其他窗口使用说明.md](./其他窗口使用说明.md)
+
 ## MCP 配置
 
 在 Codex 配置的 `[mcp_servers]` 下加入：
