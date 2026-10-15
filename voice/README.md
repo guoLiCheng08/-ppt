@@ -40,6 +40,8 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\voice\codex-voice.ps1 
 
 通过 MCP 调用时，在参数中增加 `voiceName` 即可；不填写时默认选择中文音色。
 
+MCP 朗读内容会自动加上“主人，”前缀；如果传入内容已经以“主人”开头，则不会重复添加。
+
 ## 手动测试
 
 ```powershell

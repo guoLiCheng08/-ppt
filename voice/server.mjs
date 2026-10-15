@@ -96,9 +96,10 @@ async function handle(message) {
     if (volume < 0 || volume > 100) return errorReply(id, -32602, 'volume must be between 0 and 100');
 
     try {
-      await runSpeech(text, rate, volume, voiceName);
+      const spokenText = text.startsWith('主人') ? text : `主人，${text}`;
+      await runSpeech(spokenText, rate, volume, voiceName);
       return reply(id, {
-        content: [{ type: 'text', text: '语音朗读已完成。' }],
+        content: [{ type: 'text', text: `语音朗读已完成：${spokenText}` }],
       });
     } catch (error) {
       return reply(id, {
