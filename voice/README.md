@@ -25,6 +25,21 @@ startup_timeout_sec = 10
 
 如果系统没有安装中文语音包，脚本会自动回退到 Windows 默认语音。可以在“设置 → 时间和语言 → 语音”中安装中文语音。
 
+## 切换音色
+
+当前电脑可用音色包括：
+
+- `Microsoft Huihui Desktop`：中文
+- `Microsoft Zira Desktop`：英文
+
+手动指定音色：
+
+```powershell
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\voice\codex-voice.ps1 -Text '这是中文音色测试' -VoiceName 'Microsoft Huihui Desktop'
+```
+
+通过 MCP 调用时，在参数中增加 `voiceName` 即可；不填写时默认选择中文音色。
+
 ## 手动测试
 
 ```powershell

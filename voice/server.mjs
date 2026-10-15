@@ -18,7 +18,7 @@ function errorReply(id, code, message) {
   })}\n`);
 }
 
-function runSpeech(text, rate, volume) {
+function runSpeech(text, rate, volume, voiceName) {
   return new Promise((resolve, reject) => {
     const child = spawn('powershell.exe', [
       '-NoProfile',
@@ -27,6 +27,7 @@ function runSpeech(text, rate, volume) {
       '-Text', text,
       '-Rate', String(rate),
       '-Volume', String(volume),
+      ...(voiceName ? ['-VoiceName', voiceName] : []),
     ], { windowsHide: true });
 
     let stderr = '';
@@ -66,6 +67,7 @@ async function handle(message) {
             text: { type: 'string', description: '需要朗读的文字，建议不超过三句话。' },
             rate: { type: 'integer', minimum: -10, maximum: 10, default: 0 },
             volume: { type: 'integer', minimum: 0, maximum: 100, default: 100 },
+            voiceName: { type: 'string', description: 'Windows已安装的音色名称，例如 Microsoft Huihui Desktop。' },
           },
           required: ['text'],
           additionalProperties: false,
@@ -84,6 +86,9 @@ async function handle(message) {
       : '';
     const rate = Number.isInteger(params.arguments?.rate) ? params.arguments.rate : 0;
     const volume = Number.isInteger(params.arguments?.volume) ? params.arguments.volume : 100;
+    const voiceName = typeof params.arguments?.voiceName === 'string'
+      ? params.arguments.voiceName.trim()
+      : '';
 
     if (!text) return errorReply(id, -32602, 'text must not be empty');
     if (text.length > 2000) return errorReply(id, -32602, 'text must be at most 2000 characters');
@@ -91,7 +96,7 @@ async function handle(message) {
     if (volume < 0 || volume > 100) return errorReply(id, -32602, 'volume must be between 0 and 100');
 
     try {
-      await runSpeech(text, rate, volume);
+      await runSpeech(text, rate, volume, voiceName);
       return reply(id, {
         content: [{ type: 'text', text: '语音朗读已完成。' }],
       });
