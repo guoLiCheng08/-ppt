@@ -1,0 +1,4 @@
+.ppt-build/
+.codex-finalizer/
+*.inspect.ndjson
+~$*.pptx
