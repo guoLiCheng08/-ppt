@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 07-STM32常见外设与应用-页面内版.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.26772in" height="11.6929in"
+		viewBox="0 0 595.276 841.89" xml:space="preserve" color-interpolation-filters="sRGB" class="st16">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Box)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#176db3;stroke:#176db3;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st2 {fill:#ffffff;font-family:Calibri;font-size:1.24999em}
+		.st3 {font-family:宋体;font-size:1em}
+		.st4 {fill:#e7f5fd;stroke:#176db3;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st5 {fill:#173653;font-family:Calibri;font-size:0.916672em}
+		.st6 {fill:#fff6e6;stroke:#f39b31;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st7 {fill:#5b9bd5;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st8 {fill:#ffffff;font-family:Calibri;font-size:1.08334em}
+		.st9 {font-size:1em}
+		.st10 {fill:#e6f8f7;stroke:#0b9c9a;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st11 {fill:#173653;font-family:Calibri;font-size:0.833336em}
+		.st12 {fill:#f7fbfe;stroke:#5c7184;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st13 {fill:#173653;font-family:宋体;font-size:0.916672em}
+		.st14 {marker-end:url(#mrkr4-64);stroke:#176db3;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st15 {fill:#176db3;fill-opacity:1;stroke:#176db3;stroke-opacity:1;stroke-width:0.44247787610619}
+		.st16 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-64" class="st15" v:arrowType="4" v:arrowSize="2" v:setback="4.52" refX="-4.52" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-2.26,-2.26) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(39.6,-705.6)">
+			<title>框</title>
+			<desc>STM32 常见外设理解“任务—接口—典型应用”</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="266.4" cy="820.29" width="532.81" height="43.2"/>
+			<rect x="0" y="798.69" width="532.8" height="43.2" class="st1"/>
+			<text x="101.09" y="825.28" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>STM32 <tspan
+						class="st3">常见外设</tspan><tspan class="st3">：</tspan><tspan class="st3">理解</tspan><tspan class="st3">“</tspan><tspan
+						class="st3">任务</tspan><tspan class="st3">—</tspan><tspan class="st3">接口</tspan><tspan class="st3">—</tspan><tspan
+						class="st3">典型应用</tspan><tspan class="st3">”</tspan></text>		</g>
+		<g id="shape2-14" v:mID="2" v:groupContext="shape" transform="translate(23.4,-514.8)">
+			<title>框.2</title>
+			<desc>GPIO 按键读取 · LED 开关 数字输入 / 输出</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="81" cy="802.29" width="162" height="79.2"/>
+			<rect x="0" y="762.69" width="162" height="79.2" class="st4"/>
+			<text x="69.66" y="790.95" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>GPIO<v:newlineChar/><tspan
+						x="34.5" dy="1.298em" class="st3">按键读取</tspan> · LED <tspan class="st3">开关<v:newlineChar/></tspan><tspan
+						x="43.39" dy="1.331em" class="st3">数字输入</tspan> / <tspan class="st3">输出</tspan></text>		</g>
+		<g id="shape3-21" v:mID="3" v:groupContext="shape" transform="translate(426.6,-514.8)">
+			<title>框.3</title>
+			<desc>PWM 灯光调节 · 电机调速 输出控制脉冲</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="81" cy="802.29" width="162" height="79.2"/>
+			<rect x="0" y="762.69" width="162" height="79.2" class="st6"/>
+			<text x="68.56" y="790.95" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>PWM<v:newlineChar/><tspan
+						x="33.12" dy="1.298em" class="st3">灯光调节</tspan> · <tspan class="st3">电机调速<v:newlineChar/></tspan><tspan
+						x="48" dy="1.331em" class="st3">输出控制脉冲</tspan></text>		</g>
+		<g id="group4-27" transform="translate(421.2,-358.2) scale(-1,1)" v:mID="4" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<title>三维框</title>
+			<desc>STM32 主控 CPU + 存储 + 常见外设 感知、计算与控制</desc>
+			<g id="shape5-28" v:mID="5" v:groupContext="shape" transform="translate(0,14.1732)">
+				<title>工作表.5</title>
+				<path d="M0 827.72 L230.4 827.72 L216.23 841.89 L-14.17 841.89 L0 827.72 Z" class="st7"/>
+			</g>
+			<g id="shape6-30" v:mID="6" v:groupContext="shape" transform="translate(-14.1732,0)">
+				<title>工作表.6</title>
+				<path d="M0 856.06 L14.17 841.89 L14.17 744.69 L0 758.86 L0 856.06 Z" class="st7"/>
+			</g>
+			<g id="shape7-32" v:mID="7" v:groupContext="shape">
+				<title>工作表.7</title>
+				<rect x="0" y="744.69" width="230.4" height="97.2" class="st7"/>
+			</g>
+			<g id="shape4-34" v:mID="4" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="115.2" cy="793.29" width="230.4" height="97.2"/>
+				<text x="-147.97" y="780.31" transform="scale(-1,1)" class="st8" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>STM32 <tspan
+							class="st3">主控<v:newlineChar/></tspan><tspan x="-177.55" dy="1.331em" class="st9">CPU + </tspan><tspan
+							class="st3">存储</tspan> + <tspan class="st3">常见外设<v:newlineChar/></tspan><tspan x="-167.2" dy="1.331em"
+							class="st3">感知</tspan><tspan class="st3">、</tspan><tspan class="st3">计算与控制</tspan></text>			</g>
+		</g>
+		<g id="shape8-43" v:mID="8" v:groupContext="shape" transform="translate(23.4,-208.8)">
+			<title>框.8</title>
+			<desc>ADC 电池电压 · 模拟传感器 模拟量转数字量</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="81" cy="802.29" width="162" height="79.2"/>
+			<rect x="0" y="762.69" width="162" height="79.2" class="st10"/>
+			<text x="71.5" y="790.95" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>ADC<v:newlineChar/><tspan
+						x="27.62" dy="1.298em" class="st3">电池电压</tspan> · <tspan class="st3">模拟传感器<v:newlineChar/></tspan><tspan
+						x="42.5" dy="1.331em" class="st3">模拟量转数字量</tspan></text>		</g>
+		<g id="shape9-49" v:mID="9" v:groupContext="shape" transform="translate(426.6,-208.8)">
+			<title>框.9</title>
+			<desc>UART / SPI / I²C GPS · IMU · SD 卡 · 调试 外设通信</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="81" cy="802.29" width="162" height="79.2"/>
+			<rect x="0" y="762.69" width="162" height="79.2" class="st4"/>
+			<text x="49.62" y="791.98" class="st11" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>UART / SPI / I²C<v:newlineChar/><tspan
+						x="32.15" dy="1.298em" class="st9">GPS · IMU · SD </tspan><tspan class="st3">卡</tspan> · <tspan class="st3">调试<v:newlineChar/></tspan><tspan
+						x="61" dy="1.331em" class="st3">外设通信</tspan></text>		</g>
+		<g id="shape10-56" v:mID="10" v:groupContext="shape" transform="translate(46.8,-79.2)">
+			<title>框.10</title>
+			<desc>学习外设先问“解决什么任务”再看“信号如何连接”最后练“软件如何配置与验证”。</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="259.2" cy="816.69" width="518.4" height="50.4"/>
+			<rect x="0" y="791.49" width="518.4" height="50.4" class="st12"/>
+			<text x="28.2" y="820.35" class="st13" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>学习外设：先问“解决什么任务”，再看“信号如何连接”，最后练“软件如何配置与验证”。</text>		</g>
+		<g id="shape11-59" v:mID="11" v:groupContext="shape" v:layerMember="0" transform="translate(104.4,-514.8)">
+			<title>动态连接线</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 841.89 L0 949.89 L77.36 949.89" class="st14"/>
+		</g>
+		<g id="shape12-65" v:mID="12" v:groupContext="shape" v:layerMember="0" transform="translate(507.6,-514.8)">
+			<title>动态连接线.12</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 841.89 L0 949.89 L-77.36 949.89" class="st14"/>
+		</g>
+		<g id="shape13-70" v:mID="13" v:groupContext="shape" v:layerMember="0" transform="translate(104.4,-288)">
+			<title>动态连接线.13</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 841.89 L0 723.09 L77.36 723.09" class="st14"/>
+		</g>
+		<g id="shape14-75" v:mID="14" v:groupContext="shape" v:layerMember="0" transform="translate(507.6,-288)">
+			<title>动态连接线.14</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 841.89 L0 723.09 L-77.36 723.09" class="st14"/>
+		</g>
+	</g>
+</svg>

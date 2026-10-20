@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 03-部门协作与研发闭环-大箭头版.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.26772in" height="11.6929in"
+		viewBox="0 0 595.276 841.89" xml:space="preserve" color-interpolation-filters="sRGB" class="st19">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Box)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#176db3;stroke:#176db3;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st2 {fill:#ffffff;font-family:宋体;font-size:1.33333em}
+		.st3 {fill:#e6f8f7;stroke:#0b9c9a;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st4 {fill:#173653;font-family:宋体;font-size:1.00001em}
+		.st5 {font-family:Calibri;font-size:1em}
+		.st6 {font-size:1em}
+		.st7 {fill:#0b9c9a;stroke:#0b9c9a;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st8 {fill:#ffffff;font-family:宋体;font-size:0.916672em}
+		.st9 {fill:#5b9bd5;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st10 {fill:#ffffff;font-family:宋体;font-size:1.08334em}
+		.st11 {fill:#f39b31;stroke:#f39b31;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st12 {fill:#ffffff;font-family:宋体;font-size:1.00001em}
+		.st13 {fill:#e7f5fd;stroke:#176db3;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st14 {fill:#173653;font-family:宋体;font-size:0.916672em}
+		.st15 {fill:#fff6e6;stroke:#f39b31;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st16 {fill:#176db3;stroke:#176db3;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st17 {marker-end:url(#mrkr4-78);stroke:#5592c9;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st18 {fill:#5592c9;fill-opacity:1;stroke:#5592c9;stroke-opacity:1;stroke-width:0.16556291390728}
+		.st19 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-78" class="st18" v:arrowType="4" v:arrowSize="2" v:setback="12.08" refX="-12.08" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-6.04,-6.04) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(100.8,-625.68)">
+			<title>框</title>
+			<desc>嵌入式项目的部门协作把客户任务变成可验证的产品</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="352.8" cy="819.57" width="705.6" height="44.64"/>
+			<rect x="0" y="797.25" width="705.6" height="44.64" class="st1"/>
+			<text x="160.8" y="824.89" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>嵌入式项目的部门协作：把客户任务变成可验证的产品</text>		</g>
+		<g id="shape2-4" v:mID="2" v:groupContext="shape" transform="translate(32.4,-394.2)">
+			<title>框.2</title>
+			<desc>客户 / 市场 / 售后 任务场景、功能诉求 成本与交付约束</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="79.2" cy="789.69" width="158.4" height="104.4"/>
+			<rect x="0" y="737.49" width="158.4" height="104.4" class="st3"/>
+			<text x="33.14" y="777.71" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>客户<tspan class="st5"> </tspan><tspan
+						class="st5">/ </tspan>市场<tspan class="st5"> </tspan><tspan class="st5">/ </tspan>售后<v:newlineChar/><tspan
+						x="25.2" dy="1.331em" class="st6">任务场景</tspan>、功能诉求<v:newlineChar/><tspan x="37.2" dy="1.331em" class="st6">成本与交付约束</tspan></text>		</g>
+		<g id="shape3-13" v:mID="3" v:groupContext="shape" transform="translate(198,-415.8)">
+			<title>箭头框</title>
+			<desc>需求输入 与澄清</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="57.6" cy="797.117" width="115.2" height="32.8535"/>
+			<path d="M43.43 813.54 L43.43 827.72 L29.25 827.72 L57.6 841.89 L85.95 827.72 L71.77 827.72 L71.77 813.54 L115.2 813.54
+						 L115.2 780.69 L0 780.69 L0 813.54 L43.43 813.54 Z" class="st7"/>
+			<text x="35.6" y="793.46" class="st8" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>需求输入<v:newlineChar/><tspan
+						x="41.1" dy="1.331em" class="st6">与澄清</tspan></text>		</g>
+		<g id="group4-17" transform="translate(495,-387) scale(-1,1)" v:mID="4" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<title>三维框</title>
+			<desc>总体 / 项目管理 系统需求 · 总体方案 任务分解 · 接口管理</desc>
+			<g id="shape5-18" v:mID="5" v:groupContext="shape" transform="translate(0,14.1732)">
+				<title>工作表.5</title>
+				<path d="M0 827.72 L169.2 827.72 L155.03 841.89 L-14.17 841.89 L0 827.72 Z" class="st9"/>
+			</g>
+			<g id="shape6-20" v:mID="6" v:groupContext="shape" transform="translate(-14.1732,0)">
+				<title>工作表.6</title>
+				<path d="M0 856.06 L14.17 841.89 L14.17 723.09 L0 737.26 L0 856.06 Z" class="st9"/>
+			</g>
+			<g id="shape7-22" v:mID="7" v:groupContext="shape">
+				<title>工作表.7</title>
+				<rect x="0" y="723.09" width="169.2" height="118.8" class="st9"/>
+			</g>
+			<g id="shape4-24" v:mID="4" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="84.6" cy="782.49" width="169.2" height="118.8"/>
+				<text x="-129.05" y="769.51" transform="scale(-1,1)" class="st10" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>总体<tspan
+							class="st5"> </tspan><tspan class="st5">/ </tspan>项目管理<v:newlineChar/><tspan x="-141.18" dy="1.331em"
+							class="st6">系统需求</tspan><tspan class="st5"> </tspan><tspan class="st5">· </tspan>总体方案<v:newlineChar/><tspan
+							x="-141.18" dy="1.331em" class="st6">任务分解</tspan><tspan class="st5"> </tspan><tspan class="st5">· </tspan>接口管理</text>			</g>
+		</g>
+		<g id="shape8-34" v:mID="8" v:groupContext="shape" transform="translate(518.4,-406.8)">
+			<title>四向箭头框</title>
+			<desc>方案 分解</desc>
+			<v:userDefs>
+				<v:ud v:nameU="ArrowWidth" v:prompt="" v:val="VT0(0.25000004):1"/>
+				<v:ud v:nameU="ArrowHeight" v:prompt="" v:val="VT0(0.13524594):1"/>
+				<v:ud v:nameU="BarWidth" v:prompt="" v:val="VT0(0.08299184):1"/>
+				<v:ud v:nameU="BoxWidth" v:prompt="" v:val="VT0(1.0748030696063):1"/>
+				<v:ud v:nameU="BoxHeight" v:prompt="" v:val="VT0(1.0543112696063):1"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+				<v:ud v:nameU="BoxWidth" v:prompt="" v:val="VT0(0.99999992):1"/>
+				<v:ud v:nameU="BoxHeight" v:prompt="" v:val="VT0(0.57950812):1"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="54" cy="802.29" width="72" height="41.7246"/>
+			<path d="M0 802.29 L9.74 811.29 L9.74 805.28 L18 805.28 L18 823.15 L51.01 823.15 L51.01 832.15 L45 832.15 L54 841.89
+						 L63 832.15 L56.99 832.15 L56.99 823.15 L90 823.15 L90 805.28 L98.26 805.28 L98.26 811.29 L108 802.29 L98.26
+						 793.29 L98.26 799.3 L90 799.3 L90 781.43 L56.99 781.43 L56.99 772.43 L63 772.43 L54 762.69 L45 772.43 L51.01
+						 772.43 L51.01 781.43 L18 781.43 L18 799.3 L9.74 799.3 L9.74 793.29 L0 802.29 Z" class="st11"/>
+			<text x="42" y="798.3" class="st12" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>方案<v:newlineChar/><tspan
+						x="42" dy="1.331em" class="st6">分解</tspan></text>		</g>
+		<g id="shape9-38" v:mID="9" v:groupContext="shape" transform="translate(133.2,-203.4)">
+			<title>框.9</title>
+			<desc>硬件部门 原理图 · PCB · 器件选型 确认电源、引脚和接口</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="90" cy="789.69" width="180" height="104.4"/>
+			<rect x="0" y="737.49" width="180" height="104.4" class="st13"/>
+			<text x="68" y="778.71" class="st14" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>硬件部门<v:newlineChar/><tspan
+						x="34.98" dy="1.331em" class="st6">原理图</tspan><tspan class="st5"> </tspan><tspan class="st5">· PCB · </tspan>器件选型<v:newlineChar/><tspan
+						x="35" dy="1.331em" class="st6">确认电源</tspan>、引脚和接口</text>		</g>
+		<g id="shape10-45" v:mID="10" v:groupContext="shape" transform="translate(363.6,-203.4)">
+			<title>框.10</title>
+			<desc>软件部门 详细设计 · 编码 · 自测 驱动、控制与通信实现</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="90" cy="789.69" width="180" height="104.4"/>
+			<rect x="0" y="737.49" width="180" height="104.4" class="st3"/>
+			<text x="68" y="778.71" class="st14" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>软件部门<v:newlineChar/><tspan
+						x="38.25" dy="1.331em" class="st6">详细设计</tspan><tspan class="st5"> </tspan><tspan class="st5">· </tspan>编码<tspan
+						class="st5"> </tspan><tspan class="st5">· </tspan>自测<v:newlineChar/><tspan x="35" dy="1.331em" class="st6">驱动</tspan>、控制与通信实现</text>		</g>
+		<g id="shape11-54" v:mID="11" v:groupContext="shape" transform="translate(594,-203.4)">
+			<title>框.11</title>
+			<desc>测试部门 测试大纲 · 用例 · 记录 验证需求是否真正满足</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="90" cy="789.69" width="180" height="104.4"/>
+			<rect x="0" y="737.49" width="180" height="104.4" class="st15"/>
+			<text x="68" y="778.71" class="st14" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>测试部门<v:newlineChar/><tspan
+						x="38.25" dy="1.331em" class="st6">测试大纲</tspan><tspan class="st5"> </tspan><tspan class="st5">· </tspan>用例<tspan
+						class="st5"> </tspan><tspan class="st5">· </tspan>记录<v:newlineChar/><tspan x="35" dy="1.331em" class="st6">验证需求是否真正满足</tspan></text>		</g>
+		<g id="shape12-63" v:mID="12" v:groupContext="shape" transform="translate(165.6,-79.2)">
+			<title>双箭头框</title>
+			<desc>软硬件接口协商资源分配、时序、数据格式、版本与变更记录</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(17):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="172.8" cy="809.49" width="345.6" height="19.44"/>
+			<path d="M164.3 819.21 L164.3 833.24 L155.79 833.24 L172.8 841.89 L189.81 833.24 L181.3 833.24 L181.3 819.21 L345.6 819.21
+						 L345.6 799.77 L181.3 799.77 L181.3 785.74 L189.81 785.74 L172.8 777.09 L155.79 785.74 L164.3 785.74 L164.3
+						 799.77 L0 799.77 L0 819.21 L164.3 819.21 Z" class="st16"/>
+			<text x="18.8" y="813.15" class="st8" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>软硬件接口协商：资源分配、时序、数据格式、版本与变更记录</text>		</g>
+		<g id="shape13-66" v:mID="13" v:groupContext="shape" transform="translate(565.2,-79.2)">
+			<title>双箭头框.13</title>
+			<desc>问题反馈 → 修复 → 回归验证</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(17):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="111.6" cy="809.49" width="223.2" height="19.44"/>
+			<path d="M103.1 819.21 L103.1 833.24 L94.59 833.24 L111.6 841.89 L128.61 833.24 L120.1 833.24 L120.1 819.21 L223.2 819.21
+						 L223.2 799.77 L120.1 799.77 L120.1 785.74 L128.61 785.74 L111.6 777.09 L94.59 785.74 L103.1 785.74 L103.1
+						 799.77 L0 799.77 L0 819.21 L103.1 819.21 Z" class="st11"/>
+			<text x="40.63" y="813.15" class="st8" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>问题反馈<tspan
+						class="st5"> </tspan>→<tspan class="st5"> </tspan>修复<tspan class="st5"> </tspan>→<tspan class="st5"> </tspan>回归验证</text>		</g>
+		<g id="shape14-73" v:mID="14" v:groupContext="shape" v:layerMember="0" transform="translate(111.6,-498.6)">
+			<title>动态连接线</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 841.89 L0 831.02 L144 831.02 L144 857.45" class="st17"/>
+		</g>
+		<g id="shape15-79" v:mID="15" v:groupContext="shape" v:layerMember="0" transform="translate(313.2,-460.573)">
+			<title>动态连接线.15</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 841.89 L7.16 841.89 L7.16 920.9 L97.2 920.9 L97.2 862.1" class="st17"/>
+		</g>
+		<g id="shape16-84" v:mID="16" v:groupContext="shape" v:layerMember="0" transform="translate(325.8,-446.4)">
+			<title>动态连接线.16</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 841.89 L-7.16 841.89 L-7.16 877.93 L-102.6 877.93 L-102.6 974.45" class="st17"/>
+		</g>
+		<g id="shape17-89" v:mID="17" v:groupContext="shape" v:layerMember="0" transform="translate(410.4,-387)">
+			<title>动态连接线.17</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 841.89 L0 852.76 L43.2 852.76 L43.2 915.05" class="st17"/>
+		</g>
+		<g id="shape18-94" v:mID="18" v:groupContext="shape" v:layerMember="0" transform="translate(626.4,-446.4)">
+			<title>动态连接线.18</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 841.89 L57.6 841.89 L57.6 974.45" class="st17"/>
+		</g>
+		<g id="shape19-99" v:mID="19" v:groupContext="shape" v:layerMember="0" transform="translate(313.2,-255.6)">
+			<title>动态连接线.19</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 841.89 L25.2 841.89 L25.2 947.45" class="st17"/>
+		</g>
+		<g id="shape20-104" v:mID="20" v:groupContext="shape" v:layerMember="0" transform="translate(363.6,-255.6)">
+			<title>动态连接线.20</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 841.89 L-25.2 841.89 L-25.2 947.45" class="st17"/>
+		</g>
+		<g id="shape21-109" v:mID="21" v:groupContext="shape" v:layerMember="0" transform="translate(687.487,-203.4)">
+			<title>动态连接线.21</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M-3.49 841.89 L-3.49 852.76 L-10.69 852.76 L-10.69 895.25" class="st17"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 06-星载计算系统架构-页面内版.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.26772in" height="11.6929in"
+		viewBox="0 0 595.276 841.89" xml:space="preserve" color-interpolation-filters="sRGB" class="st17">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Box)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#176db3;stroke:#176db3;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st2 {fill:#ffffff;font-family:宋体;font-size:1.24999em}
+		.st3 {fill:#e6f8f7;stroke:#0b9c9a;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st4 {fill:#173653;font-family:宋体;font-size:1.00001em}
+		.st5 {font-size:1em}
+		.st6 {fill:#fff6e6;stroke:#f39b31;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st7 {fill:#173653;font-family:Calibri;font-size:1.00001em}
+		.st8 {font-family:宋体;font-size:1em}
+		.st9 {fill:#5b9bd5;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st10 {fill:#ffffff;font-family:Calibri;font-size:1.08334em}
+		.st11 {fill:#ffffff;stroke:#cacaca;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st12 {fill:#f7fbfe;stroke:#5c7184;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st13 {fill:#173653;font-family:宋体;font-size:0.916672em}
+		.st14 {font-family:Calibri;font-size:1em}
+		.st15 {marker-end:url(#mrkr4-54);stroke:#176db3;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st16 {fill:#176db3;fill-opacity:1;stroke:#176db3;stroke-opacity:1;stroke-width:0.44247787610619}
+		.st17 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-54" class="st16" v:arrowType="4" v:arrowSize="2" v:setback="4.52" refX="-4.52" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-2.26,-2.26) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(39.6,-705.6)">
+			<title>框</title>
+			<desc>星载计算系统设备、逻辑、计算与板级适配</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="266.4" cy="820.29" width="532.81" height="43.2"/>
+			<rect x="0" y="798.69" width="532.8" height="43.2" class="st1"/>
+			<text x="116.4" y="825.28" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>星载计算系统：设备、逻辑、计算与板级适配</text>		</g>
+		<g id="shape2-4" v:mID="2" v:groupContext="shape" transform="translate(180,-586.8)">
+			<title>框.2</title>
+			<desc>外部设备与单机 传感器、数传、存储、电源与执行机构</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="126" cy="805.89" width="252" height="72"/>
+			<rect x="0" y="769.89" width="252" height="72" class="st3"/>
+			<text x="84" y="801.9" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>外部设备与单机<v:newlineChar/><tspan
+						x="24" dy="1.331em" class="st5">传感器</tspan>、数传、存储、电源与执行机构</text>		</g>
+		<g id="shape3-8" v:mID="3" v:groupContext="shape" transform="translate(180,-457.2)">
+			<title>框.3</title>
+			<desc>FPGA接口逻辑与时序控制 承担项目定义的专用功能</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="126" cy="805.89" width="252" height="72"/>
+			<rect x="0" y="769.89" width="252" height="72" class="st6"/>
+			<text x="52.89" y="801.9" class="st7" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>FPGA<tspan class="st8">：</tspan><tspan
+						class="st8">接口逻辑与时序控制<v:newlineChar/></tspan><tspan x="60" dy="1.331em" class="st8">承担项目定义的专用功能</tspan></text>		</g>
+		<g id="group4-14" transform="translate(432,-324) scale(-1,1)" v:mID="4" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<title>三维框</title>
+			<desc>i.MX8 CPU Linux、应用软件、任务调度与数据处理</desc>
+			<g id="shape5-15" v:mID="5" v:groupContext="shape" transform="translate(0,14.1732)">
+				<title>工作表.5</title>
+				<path d="M0 827.72 L252 827.72 L237.83 841.89 L-14.17 841.89 L0 827.72 Z" class="st9"/>
+			</g>
+			<g id="shape6-17" v:mID="6" v:groupContext="shape" transform="translate(-14.1732,0)">
+				<title>工作表.6</title>
+				<path d="M0 856.06 L14.17 841.89 L14.17 762.69 L0 776.86 L0 856.06 Z" class="st9"/>
+			</g>
+			<g id="shape7-19" v:mID="7" v:groupContext="shape">
+				<title>工作表.7</title>
+				<rect x="0" y="762.69" width="252" height="79.2" class="st9"/>
+			</g>
+			<g id="shape4-21" v:mID="4" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="126" cy="802.29" width="252" height="79.2"/>
+				<text x="-153.82" y="797.54" transform="scale(-1,1)" class="st10" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>i.MX8 CPU<v:newlineChar/><tspan
+							x="-237.37" dy="1.298em" class="st5">Linux</tspan><tspan class="st8">、</tspan><tspan class="st8">应用软件</tspan><tspan
+							class="st8">、</tspan><tspan class="st8">任务调度与数据处理</tspan></text>			</g>
+		</g>
+		<g id="group8-28" transform="translate(169.2,-187.2)" v:mID="8" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+			</v:userDefs>
+			<title>分层的框</title>
+			<desc>BSP 板级支持包 驱动、设备树、硬件适配</desc>
+			<g id="shape9-29" v:mID="9" v:groupContext="shape" transform="translate(38.1514,0)">
+				<title>Rectangle.33</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(17):26"/>
+				</v:userDefs>
+				<rect x="0" y="777.818" width="235.449" height="64.0719" class="st11"/>
+			</g>
+			<g id="shape10-31" v:mID="10" v:groupContext="shape" transform="translate(19.0757,-7.56404)">
+				<title>Rectangle.32</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(17):26"/>
+				</v:userDefs>
+				<rect x="0" y="777.818" width="235.449" height="64.0719" class="st11"/>
+			</g>
+			<g id="shape11-33" v:mID="11" v:groupContext="shape" transform="translate(0,-15.1281)">
+				<title>Rectangle</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(17):26"/>
+				</v:userDefs>
+				<rect x="0" y="777.818" width="235.449" height="64.0719" class="st11"/>
+			</g>
+			<g id="shape8-35" v:mID="8" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="117.724" cy="794.726" width="235.45" height="64.0719"/>
+				<text x="77.25" y="790.73" class="st7" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>BSP <tspan
+							class="st8">板级支持包<v:newlineChar/></tspan><tspan x="51.72" dy="1.331em" class="st8">驱动</tspan><tspan
+							class="st8">、</tspan><tspan class="st8">设备树</tspan><tspan class="st8">、</tspan><tspan class="st8">硬件适配</tspan></text>			</g>
+		</g>
+		<g id="shape12-43" v:mID="12" v:groupContext="shape" transform="translate(46.8,-79.2)">
+			<title>框.12</title>
+			<desc>教学要点CPU 运行软件FPGA 实现可配置逻辑BSP 让软件能够正确访问板级硬件。</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="259.2" cy="816.69" width="518.4" height="50.4"/>
+			<rect x="0" y="791.49" width="518.4" height="50.4" class="st12"/>
+			<text x="49.79" y="820.35" class="st13" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>教学要点：<tspan
+						class="st14">CPU </tspan>运行软件；<tspan class="st14">FPGA </tspan>实现可配置逻辑；<tspan class="st14">BSP </tspan>让软件能够正确访问板级硬件。</text>		</g>
+		<g id="shape13-49" v:mID="13" v:groupContext="shape" v:layerMember="0" transform="translate(298.913,-586.8)">
+			<title>动态连接线</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M7.09 841.89 L7.09 890.45" class="st15"/>
+		</g>
+		<g id="shape14-55" v:mID="14" v:groupContext="shape" v:layerMember="0" transform="translate(298.913,-457.2)">
+			<title>动态连接线.14</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M7.09 841.89 L7.09 886.85" class="st15"/>
+		</g>
+		<g id="shape15-60" v:mID="15" v:groupContext="shape" v:layerMember="0" transform="translate(298.913,-266.4)">
+			<title>动态连接线.15</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M7.09 841.89 L7.09 793.33" class="st15"/>
+		</g>
+	</g>
+</svg>

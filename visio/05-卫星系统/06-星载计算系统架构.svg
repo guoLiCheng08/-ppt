@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 06-星载计算系统架构.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.26772in" height="11.6929in"
+		viewBox="0 0 595.276 841.89" xml:space="preserve" color-interpolation-filters="sRGB" class="st14">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Box)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#e6f8f7;stroke:#0b9c9a;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st2 {fill:#173653;font-family:宋体;font-size:0.916672em}
+		.st3 {font-size:1em}
+		.st4 {font-family:Calibri;font-size:1em}
+		.st5 {fill:#fff6e6;stroke:#f39b31;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st6 {fill:#173653;font-family:Calibri;font-size:0.916672em}
+		.st7 {font-family:宋体;font-size:1em}
+		.st8 {fill:#5b9bd5;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st9 {fill:#ffffff;font-family:Calibri;font-size:1.00001em}
+		.st10 {fill:#ffffff;stroke:#cacaca;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st11 {fill:#f7fbfe;stroke:#5c7184;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st12 {marker-end:url(#mrkr4-51);stroke:#5592c9;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st13 {fill:#5592c9;fill-opacity:1;stroke:#5592c9;stroke-opacity:1;stroke-width:0.16556291390728}
+		.st14 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-51" class="st13" v:arrowType="4" v:arrowSize="2" v:setback="12.08" refX="-12.08" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-6.04,-6.04) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(64.8,-320.4)">
+			<title>框</title>
+			<desc>外部设备与单机 传感器 · 数传 · 存储 电源与执行机构</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="79.2" cy="787.89" width="158.4" height="108"/>
+			<rect x="0" y="733.89" width="158.4" height="108" class="st1"/>
+			<text x="40.7" y="776.91" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>外部设备与单机<v:newlineChar/><tspan
+						x="32.95" dy="1.331em" class="st3">传感器</tspan><tspan class="st4"> </tspan><tspan class="st4">· </tspan>数传<tspan
+						class="st4"> </tspan><tspan class="st4">· </tspan>存储<v:newlineChar/><tspan x="40.7" dy="1.331em"
+						class="st3">电源与执行机构</tspan></text>		</g>
+		<g id="shape2-10" v:mID="2" v:groupContext="shape" transform="translate(280.8,-320.4)">
+			<title>框.2</title>
+			<desc>FPGA 接口逻辑与时序控制 项目定义功能</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="79.2" cy="787.89" width="158.4" height="108"/>
+			<rect x="0" y="733.89" width="158.4" height="108" class="st5"/>
+			<text x="67.18" y="776.55" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>FPGA<v:newlineChar/><tspan
+						x="29.7" dy="1.298em" class="st7">接口逻辑与时序控制<v:newlineChar/></tspan><tspan x="46.2" dy="1.331em" class="st7">项目定义功能</tspan></text>		</g>
+		<g id="group3-15" transform="translate(666,-316.8) scale(-1,1)" v:mID="3" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<title>三维框</title>
+			<desc>i.MX8 CPU Linux 与应用软件 任务调度与数据处理</desc>
+			<g id="shape4-16" v:mID="4" v:groupContext="shape" transform="translate(0,14.1732)">
+				<title>工作表.4</title>
+				<path d="M0 827.72 L165.6 827.72 L151.43 841.89 L-14.17 841.89 L0 827.72 Z" class="st8"/>
+			</g>
+			<g id="shape5-18" v:mID="5" v:groupContext="shape" transform="translate(-14.1732,0)">
+				<title>工作表.5</title>
+				<path d="M0 856.06 L14.17 841.89 L14.17 726.69 L0 740.86 L0 856.06 Z" class="st8"/>
+			</g>
+			<g id="shape6-20" v:mID="6" v:groupContext="shape">
+				<title>工作表.6</title>
+				<rect x="0" y="726.69" width="165.6" height="115.2" class="st8"/>
+			</g>
+			<g id="shape3-22" v:mID="3" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="82.8" cy="784.29" width="165.6" height="115.2"/>
+				<text x="-108.48" y="771.91" transform="scale(-1,1)" class="st9" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>i.MX8 CPU<v:newlineChar/><tspan
+							x="-126.96" dy="1.298em" class="st3">Linux </tspan><tspan class="st7">与应用软件<v:newlineChar/></tspan><tspan
+							x="-136.8" dy="1.331em" class="st7">任务调度与数据处理</tspan></text>			</g>
+		</g>
+		<g id="group7-27" transform="translate(482.4,-118.8)" v:mID="7" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(17):26"/>
+			</v:userDefs>
+			<title>分层的框</title>
+			<desc>BSP 板级支持包 驱动 · 设备树 · 硬件适配</desc>
+			<g id="shape8-28" v:mID="8" v:groupContext="shape" transform="translate(28.1116,0)">
+				<title>Rectangle.33</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(17):26"/>
+				</v:userDefs>
+				<rect x="0" y="777.818" width="173.488" height="64.0719" class="st10"/>
+			</g>
+			<g id="shape9-30" v:mID="9" v:groupContext="shape" transform="translate(14.0558,-7.56404)">
+				<title>Rectangle.32</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(17):26"/>
+				</v:userDefs>
+				<rect x="0" y="777.818" width="173.488" height="64.0719" class="st10"/>
+			</g>
+			<g id="shape10-32" v:mID="10" v:groupContext="shape" transform="translate(0,-15.1281)">
+				<title>Rectangle</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(17):26"/>
+				</v:userDefs>
+				<rect x="0" y="777.818" width="173.488" height="64.0719" class="st10"/>
+			</g>
+			<g id="shape7-34" v:mID="7" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="86.7442" cy="794.726" width="173.49" height="64.0719"/>
+				<text x="49.64" y="791.06" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>BSP <tspan
+							class="st7">板级支持包<v:newlineChar/></tspan><tspan x="29.49" dy="1.331em" class="st7">驱动</tspan> · <tspan
+							class="st7">设备树</tspan> · <tspan class="st7">硬件适配</tspan></text>			</g>
+		</g>
+		<g id="shape11-40" v:mID="11" v:groupContext="shape" transform="translate(100.8,-552.6)">
+			<title>框.11</title>
+			<desc>教学重点CPU 负责运行软件FPGA 负责可配置逻辑BSP 让软件能够正确访问板级硬件。</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="273.6" cy="818.49" width="547.2" height="46.8"/>
+			<rect x="0" y="795.09" width="547.2" height="46.8" class="st11"/>
+			<text x="53.19" y="822.15" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>教学重点：<tspan
+						class="st4">CPU </tspan>负责运行软件；<tspan class="st4">FPGA </tspan>负责可配置逻辑；<tspan class="st4">BSP </tspan>让软件能够正确访问板级硬件。</text>		</g>
+		<g id="shape12-46" v:mID="12" v:groupContext="shape" v:layerMember="0" transform="translate(223.2,-367.313)">
+			<title>动态连接线</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 834.8 L51.56 834.8" class="st12"/>
+		</g>
+		<g id="shape13-52" v:mID="13" v:groupContext="shape" v:layerMember="0" transform="translate(439.2,-367.313)">
+			<title>动态连接线.13</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 834.8 L55.16 834.8" class="st12"/>
+		</g>
+		<g id="shape14-57" v:mID="14" v:groupContext="shape" v:layerMember="0" transform="translate(576.113,-198)">
+			<title>动态连接线.14</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M7.09 841.89 L7.09 729.13" class="st12"/>
+		</g>
+	</g>
+</svg>

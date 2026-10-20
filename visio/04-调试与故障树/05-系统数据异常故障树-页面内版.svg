@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 05-系统数据异常故障树-页面内版.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.26772in" height="11.6929in"
+		viewBox="0 0 595.276 841.89" xml:space="preserve" color-interpolation-filters="sRGB" class="st16">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Box)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#176db3;stroke:#176db3;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st2 {fill:#ffffff;font-family:宋体;font-size:1.24999em}
+		.st3 {fill:#5b9bd5;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st4 {fill:#ffffff;font-family:宋体;font-size:1.16666em}
+		.st5 {fill:#e7f5fd;stroke:#176db3;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st6 {fill:#173653;font-family:宋体;font-size:0.833336em}
+		.st7 {font-size:1em}
+		.st8 {font-family:Calibri;font-size:1em}
+		.st9 {fill:#e6f8f7;stroke:#0b9c9a;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st10 {fill:#fff6e6;stroke:#f39b31;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st11 {fill:#f7fbfe;stroke:#5c7184;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st12 {fill:#173653;font-family:宋体;font-size:0.916672em}
+		.st13 {fill:#ffffff;font-family:宋体;font-size:0.916672em}
+		.st14 {marker-end:url(#mrkr4-61);stroke:#176db3;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st15 {fill:#176db3;fill-opacity:1;stroke:#176db3;stroke-opacity:1;stroke-width:0.44247787610619}
+		.st16 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-61" class="st15" v:arrowType="4" v:arrowSize="2" v:setback="4.52" refX="-4.52" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-2.26,-2.26) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(39.6,-705.6)">
+			<title>框</title>
+			<desc>调试排查用故障树建立“现象—假设—证据”</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="266.4" cy="820.29" width="532.81" height="43.2"/>
+			<rect x="0" y="798.69" width="532.8" height="43.2" class="st1"/>
+			<text x="108.9" y="825.28" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>调试排查：用故障树建立“现象—假设—证据”</text>		</g>
+		<g id="group2-4" transform="translate(414,-586.8) scale(-1,1)" v:mID="2" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<title>三维框</title>
+			<desc>顶层故障系统数据异常</desc>
+			<g id="shape3-5" v:mID="3" v:groupContext="shape" transform="translate(0,14.1732)">
+				<title>工作表.3</title>
+				<path d="M0 827.72 L216 827.72 L201.83 841.89 L-14.17 841.89 L0 827.72 Z" class="st3"/>
+			</g>
+			<g id="shape4-7" v:mID="4" v:groupContext="shape" transform="translate(-14.1732,0)">
+				<title>工作表.4</title>
+				<path d="M0 856.06 L14.17 841.89 L14.17 769.89 L0 784.06 L0 856.06 Z" class="st3"/>
+			</g>
+			<g id="shape5-9" v:mID="5" v:groupContext="shape">
+				<title>工作表.5</title>
+				<rect x="0" y="769.89" width="216" height="72" class="st3"/>
+			</g>
+			<g id="shape2-11" v:mID="2" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="108" cy="805.89" width="216" height="72"/>
+				<text x="-185" y="810.55" transform="scale(-1,1)" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>顶层故障：系统数据异常</text>			</g>
+		</g>
+		<g id="shape6-13" v:mID="6" v:groupContext="shape" transform="translate(21.6,-415.8)">
+			<title>框.6</title>
+			<desc>供电 电压 · 地线 · 纹波</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="64.8" cy="800.49" width="129.6" height="82.8"/>
+			<rect x="0" y="759.09" width="129.6" height="82.8" class="st5"/>
+			<text x="54.8" y="797.16" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>供电<v:newlineChar/><tspan
+						x="27.75" dy="1.331em" class="st7">电压</tspan><tspan class="st8"> </tspan><tspan class="st8">· </tspan>地线<tspan
+						class="st8"> </tspan><tspan class="st8">· </tspan>纹波</text>		</g>
+		<g id="shape7-21" v:mID="7" v:groupContext="shape" transform="translate(169.2,-415.8)">
+			<title>框.7</title>
+			<desc>硬件连接 线序 · 焊接 · 终端</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="64.8" cy="800.49" width="129.6" height="82.8"/>
+			<rect x="0" y="759.09" width="129.6" height="82.8" class="st5"/>
+			<text x="44.8" y="797.16" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>硬件连接<v:newlineChar/><tspan
+						x="27.75" dy="1.331em" class="st7">线序</tspan><tspan class="st8"> </tspan><tspan class="st8">· </tspan>焊接<tspan
+						class="st8"> </tspan><tspan class="st8">· </tspan>终端</text>		</g>
+		<g id="shape8-29" v:mID="8" v:groupContext="shape" transform="translate(313.2,-415.8)">
+			<title>框.8</title>
+			<desc>初始化配置 时钟 · 引脚 · 波特率</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="64.8" cy="800.49" width="129.6" height="82.8"/>
+			<rect x="0" y="759.09" width="129.6" height="82.8" class="st9"/>
+			<text x="39.8" y="797.16" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>初始化配置<v:newlineChar/><tspan
+						x="22.75" dy="1.331em" class="st7">时钟</tspan><tspan class="st8"> </tspan><tspan class="st8">· </tspan>引脚<tspan
+						class="st8"> </tspan><tspan class="st8">· </tspan>波特率</text>		</g>
+		<g id="shape9-37" v:mID="9" v:groupContext="shape" transform="translate(460.8,-415.8)">
+			<title>框.9</title>
+			<desc>软件逻辑 状态机 · 边界条件</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="64.8" cy="800.49" width="129.6" height="82.8"/>
+			<rect x="0" y="759.09" width="129.6" height="82.8" class="st10"/>
+			<text x="44.8" y="797.16" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>软件逻辑<v:newlineChar/><tspan
+						x="26.28" dy="1.331em" class="st7">状态机</tspan><tspan class="st8"> </tspan><tspan class="st8">· </tspan>边界条件</text>		</g>
+		<g id="shape10-43" v:mID="10" v:groupContext="shape" transform="translate(46.8,-279)">
+			<title>框.10</title>
+			<desc>排查步骤明确现象 → 日志/打印缩小范围 → 仪器测量 → 二分定位</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="259.2" cy="814.89" width="518.4" height="54"/>
+			<rect x="0" y="787.89" width="518.4" height="54" class="st11"/>
+			<text x="95.61" y="818.55" class="st12" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>排查步骤：明确现象<tspan
+						class="st8"> </tspan>→<tspan class="st8"> </tspan>日志<tspan class="st8">/</tspan>打印缩小范围<tspan class="st8"> </tspan>→<tspan
+						class="st8"> </tspan>仪器测量<tspan class="st8"> </tspan>→<tspan class="st8"> </tspan>二分定位</text>		</g>
+		<g id="shape11-53" v:mID="11" v:groupContext="shape" transform="translate(46.8,-163.8)">
+			<title>框.11</title>
+			<desc>结论必须由证据支持修复后要回归验证并把方法记录下来。</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="259.2" cy="814.89" width="518.4" height="54"/>
+			<rect x="0" y="787.89" width="518.4" height="54" class="st1"/>
+			<text x="105.2" y="818.55" class="st13" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>结论必须由证据支持；修复后要回归验证，并把方法记录下来。</text>		</g>
+		<g id="shape12-56" v:mID="12" v:groupContext="shape" v:layerMember="0" transform="translate(198,-622.8)">
+			<title>动态连接线</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 841.89 L-111.6 841.89 L-111.6 957.05" class="st14"/>
+		</g>
+		<g id="shape13-62" v:mID="13" v:groupContext="shape" v:layerMember="0" transform="translate(306,-586.8)">
+			<title>动态连接线.13</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 841.89 L0 852.76 L-72 852.76 L-72 921.05" class="st14"/>
+		</g>
+		<g id="shape14-67" v:mID="14" v:groupContext="shape" v:layerMember="0" transform="translate(306,-622.8)">
+			<title>动态连接线.14</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 841.89 L0 888.76 L72 888.76 L72 957.05" class="st14"/>
+		</g>
+		<g id="shape15-72" v:mID="15" v:groupContext="shape" v:layerMember="0" transform="translate(414,-622.8)">
+			<title>动态连接线.15</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 841.89 L111.6 841.89 L111.6 957.05" class="st14"/>
+		</g>
+		<g id="shape16-77" v:mID="16" v:groupContext="shape" v:layerMember="0" transform="translate(298.913,-279)">
+			<title>动态连接线.16</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M7.09 841.89 L7.09 894.05" class="st14"/>
+		</g>
+	</g>
+</svg>

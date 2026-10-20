@@ -1,4 +1,22 @@
-.ppt-build/
-.codex-finalizer/
+# Build and review artifacts
+/.ppt-build/
+/.lecture-build/
+/.docx-review/
+/.codex-finalizer/
 *.inspect.ndjson
-~$*.pptx
+
+# Office temporary files
+~$*
+
+# Keep the repository release directory to one official deck.
+/output/*.pptx
+!/output/嵌入式系统开发-按讲课大纲制作-1.1.pptx
+
+# Local copies and administrative materials, not used to build the course deck.
+/讲课大纲 - 副本.docx
+/附件1：“一课一讲”申报表-郭鹏程.docx
+/附件3：“一课一讲”经费报销信息填报汇总表-郭鹏程.xls
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db

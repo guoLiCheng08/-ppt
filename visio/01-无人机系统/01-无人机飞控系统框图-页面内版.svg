@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 01-无人机飞控系统框图-页面内版.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.26772in" height="11.6929in"
+		viewBox="0 0 595.276 841.89" xml:space="preserve" color-interpolation-filters="sRGB" class="st17">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Box)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#176db3;stroke:#176db3;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st2 {fill:#ffffff;font-family:宋体;font-size:1.24999em}
+		.st3 {fill:#e7f5fd;stroke:#176db3;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st4 {fill:#173653;font-family:宋体;font-size:0.916672em}
+		.st5 {font-size:1em}
+		.st6 {font-family:Calibri;font-size:1em}
+		.st7 {fill:#e6f8f7;stroke:#0b9c9a;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st8 {fill:#f7fbfe;stroke:#5c7184;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st9 {fill:#5b9bd5;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st10 {fill:#ffffff;font-family:宋体;font-size:1.16666em}
+		.st11 {fill:#fff6e6;stroke:#f39b31;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st12 {fill:#173653;font-family:宋体;font-size:1.00001em}
+		.st13 {fill:#173653;font-family:Calibri;font-size:0.916672em}
+		.st14 {font-family:宋体;font-size:1em}
+		.st15 {marker-end:url(#mrkr4-62);stroke:#176db3;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st16 {fill:#176db3;fill-opacity:1;stroke:#176db3;stroke-opacity:1;stroke-width:0.44247787610619}
+		.st17 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-62" class="st16" v:arrowType="4" v:arrowSize="2" v:setback="4.52" refX="-4.52" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-2.26,-2.26) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(39.6,-705.6)">
+			<title>框</title>
+			<desc>无人机飞控系统输入、决策、执行与证据链</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="266.4" cy="820.29" width="532.81" height="43.2"/>
+			<rect x="0" y="798.69" width="532.8" height="43.2" class="st1"/>
+			<text x="116.4" y="825.28" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>无人机飞控系统：输入、决策、执行与证据链</text>		</g>
+		<g id="shape2-4" v:mID="2" v:groupContext="shape" transform="translate(25.2,-532.8)">
+			<title>框.2</title>
+			<desc>供电与电源管理 电池 · 稳压 · 保护</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="79.2" cy="805.89" width="158.4" height="72"/>
+			<rect x="0" y="769.89" width="158.4" height="72" class="st3"/>
+			<text x="40.7" y="802.23" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>供电与电源管理<v:newlineChar/><tspan
+						x="38.45" dy="1.331em" class="st5">电池</tspan><tspan class="st6"> </tspan><tspan class="st6">· </tspan>稳压<tspan
+						class="st6"> </tspan><tspan class="st6">· </tspan>保护</text>		</g>
+		<g id="shape3-12" v:mID="3" v:groupContext="shape" transform="translate(216,-523.8)">
+			<title>框.3</title>
+			<desc>输入与传感器 IMU · GPS · ADC · 遥控</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="90" cy="796.89" width="180" height="90"/>
+			<rect x="0" y="751.89" width="180" height="90" class="st7"/>
+			<text x="57" y="793.23" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>输入与传感器<v:newlineChar/><tspan
+						x="39.42" dy="1.331em" class="st6">IMU · GPS · ADC · </tspan>遥控</text>		</g>
+		<g id="shape4-16" v:mID="4" v:groupContext="shape" transform="translate(428.4,-532.8)">
+			<title>框.4</title>
+			<desc>通信与调试 UART · SWD · 数传</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="79.2" cy="805.89" width="158.4" height="72"/>
+			<rect x="0" y="769.89" width="158.4" height="72" class="st8"/>
+			<text x="51.7" y="802.23" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>通信与调试<v:newlineChar/><tspan
+						x="37.27" dy="1.331em" class="st6">UART · SWD · </tspan>数传</text>		</g>
+		<g id="group5-20" transform="translate(414,-354.6) scale(-1,1)" v:mID="5" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<title>三维框</title>
+			<desc>飞控主控 STM32F407 采集 → 计算 → 控制</desc>
+			<g id="shape6-21" v:mID="6" v:groupContext="shape" transform="translate(0,14.1732)">
+				<title>工作表.6</title>
+				<path d="M0 827.72 L216 827.72 L201.83 841.89 L-14.17 841.89 L0 827.72 Z" class="st9"/>
+			</g>
+			<g id="shape7-23" v:mID="7" v:groupContext="shape" transform="translate(-14.1732,0)">
+				<title>工作表.7</title>
+				<path d="M0 856.06 L14.17 841.89 L14.17 744.69 L0 758.86 L0 856.06 Z" class="st9"/>
+			</g>
+			<g id="shape8-25" v:mID="8" v:groupContext="shape">
+				<title>工作表.8</title>
+				<rect x="0" y="744.69" width="216" height="97.2" class="st9"/>
+			</g>
+			<g id="shape5-27" v:mID="5" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="108" cy="793.29" width="216" height="97.2"/>
+				<text x="-171.15" y="788.63" transform="scale(-1,1)" class="st10" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>飞控主控<tspan
+							class="st6"> </tspan><tspan class="st6">STM32F407<v:newlineChar/></tspan><tspan x="-170.33"
+							dy="1.331em" class="st5">采集</tspan><tspan class="st6"> </tspan>→<tspan class="st6"> </tspan>计算<tspan
+							class="st6"> </tspan>→<tspan class="st6"> </tspan>控制</text>			</g>
+		</g>
+		<g id="shape9-36" v:mID="9" v:groupContext="shape" transform="translate(198,-205.2)">
+			<title>框.9</title>
+			<desc>输出与执行 PWM → 电调 ESC → 无刷电机</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="108" cy="798.69" width="216" height="86.4"/>
+			<rect x="0" y="755.49" width="216" height="86.4" class="st11"/>
+			<text x="78" y="794.7" class="st12" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>输出与执行<v:newlineChar/><tspan
+						x="30.76" dy="1.331em" class="st6">PWM </tspan>→<tspan class="st6"> </tspan>电调<tspan class="st6"> </tspan><tspan
+						class="st6">ESC </tspan>→<tspan class="st6"> </tspan>无刷电机</text>		</g>
+		<g id="shape10-44" v:mID="10" v:groupContext="shape" transform="translate(79.2,-88.2)">
+			<title>框.10</title>
+			<desc>SD 卡日志记录姿态、控制量、传感器数据为调试和复盘提供证据。</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="226.8" cy="818.49" width="453.6" height="46.8"/>
+			<rect x="0" y="795.09" width="453.6" height="46.8" class="st8"/>
+			<text x="54.64" y="822.15" class="st13" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>SD <tspan
+						class="st14">卡日志</tspan><tspan class="st14">：</tspan><tspan class="st14">记录姿态</tspan><tspan class="st14">、</tspan><tspan
+						class="st14">控制量</tspan><tspan class="st14">、</tspan><tspan class="st14">传感器数据</tspan><tspan class="st14">，</tspan><tspan
+						class="st14">为调试和复盘提供证据</tspan><tspan class="st14">。</tspan></text>		</g>
+		<g id="shape11-57" v:mID="11" v:groupContext="shape" v:layerMember="0" transform="translate(104.4,-532.8)">
+			<title>动态连接线</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 841.89 L0 971.49 L84.56 971.49" class="st15"/>
+		</g>
+		<g id="shape12-63" v:mID="12" v:groupContext="shape" v:layerMember="0" transform="translate(298.913,-523.8)">
+			<title>动态连接线.12</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M7.09 841.89 L7.09 904.85" class="st15"/>
+		</g>
+		<g id="shape13-68" v:mID="13" v:groupContext="shape" v:layerMember="0" transform="translate(507.6,-532.8)">
+			<title>动态连接线.13</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 841.89 L0 971.49 L-84.56 971.49" class="st15"/>
+		</g>
+		<g id="shape14-73" v:mID="14" v:groupContext="shape" v:layerMember="0" transform="translate(298.913,-354.6)">
+			<title>动态连接线.14</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M7.09 841.89 L7.09 895.85" class="st15"/>
+		</g>
+		<g id="shape15-78" v:mID="15" v:groupContext="shape" v:layerMember="0" transform="translate(306,-403.2)">
+			<title>动态连接线.15</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 841.89 L0 942.62 L237.67 942.62 L237.67 1133.49 L235.84 1133.49" class="st15"/>
+		</g>
+	</g>
+</svg>
